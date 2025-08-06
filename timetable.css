@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+    width: 80%;
+    margin: 80px auto ;
+}
+caption{
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+th,td{
+    text-align: center;
+    padding: 10px 10px;
+    border: 1px solid black;
+}
+th{
+    background-color: rgb(202, 194, 194);
+}

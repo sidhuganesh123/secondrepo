@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(98, 104, 86);
+    opacity: 0.9;
+}
+.register{
+    border: 2px solid rgb(121, 78, 78);
+    margin-left: 400px;
+    margin-top: 120px;
+    padding-top: 20px;
+    width: 450px;
+    height: 350px;
+    padding: 20px;
+    display: block;
+    background-color:rgb(163, 175, 139) ;
+    opacity: 0.8;
+}
+h2{
+    padding: 30px;
+}
+label{
+    padding: 30px;
+}
+input{
+    padding-left: 20px;
+    border-radius: 20%;
+    margin-top: 10px;
+}
+button{
+   
+    margin: 50px;
+    margin-left: 150px;
+    width: 80px;
+    height: 30px;
+    border-radius: 20%;
+}
